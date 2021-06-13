@@ -1,15 +1,5 @@
-var x = 8;
-var i;
+var y = 20;
+var x = 10;
+var d = y/x;
 
-for(i=0; i<x; i++){
-    console.log("Ciclo For!!")
-}
-
-if(x>20){
-    console.log("El numero es mayor a 20");
-}else{
-    console.log("El numero es mejor a 20");
-}
-
-var y = 5**3;
-console.log(y);
+console.log("El resultado de la operacion es: " + d);
