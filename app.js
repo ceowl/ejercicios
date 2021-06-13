@@ -1,5 +1,5 @@
-var y = 20;
-var x = 10;
-var d = y/x;
+var i;
 
-console.log("El resultado de la operacion es: " + d);
+for(i=0;i<10;i++){
+    console.log("Fiesta");
+}
