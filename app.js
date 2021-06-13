@@ -8,4 +8,6 @@ for(i=0; i<x; i++){
 while(i<x){
     console.log("Ciclo while");
 }
-    
+
+var y = 5**3;
+console.log(y);
